@@ -10,4 +10,4 @@ Una actualización más
 
 Cambios desde mi rama local llamada developer01
 
-Cambios desde GitHub Editor
+Cambios desde GitHub Editor (recordar que solo es un editor de texto y que si se necesita utilizar una terminal es mejor apeerturar un GH Codespace)
